@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LittleVigney
-- 👀 I’m interested in guitar and programing
-- 🌱 I’m currently learning Python and C#
+- 👀 I’m interested in guitar and algorithm.
 
 
 <!---
