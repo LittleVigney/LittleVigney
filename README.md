@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LittleVigney
-- 👀 I’m interested in guitar and algorithm.
+- 👀 I’m interested in Machine Learning and math.
 
 
 <!---
