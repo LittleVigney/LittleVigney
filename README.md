@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LittleVigney
-- 👀 I’m interested in Machine Learning and math.
+- 👀 I’m interested in TCS and math.
 
 
 <!---
